@@ -1,25 +1,26 @@
 class Solution {
 public:
 
-//    Recursion+Top_Down(Memoization)
+//    Recursion+Top_Down(Memoization)  'k' currently kahin bhi hua wo hmesha i+j ke equal hi hoga so
+// 'k' ko hmm i+j se replace kr skte hai
     
     bool find(int i,int j,int k,string &s1,string &s2,string &s3,int n,int m,vector<vector<int>>&dp)
     {
         // Base case
         if(i==n && j==m)
         {
-            return k==n+m;
+            return i+j==n+m;
         }
 
         if(dp[i][j]!=-1)
         return dp[i][j];
         
         if(i<n && s1[i]==s3[k])
-        if(find(i+1,j,k+1,s1,s2,s3,n,m,dp))
+        if(find(i+1,j,i+j+1,s1,s2,s3,n,m,dp))
         return dp[i][j] = 1;
         
         if(j<m && s2[j]==s3[k])
-        if(find(i,j+1,k+1,s1,s2,s3,n,m,dp))
+        if(find(i,j+1,i+j+1,s1,s2,s3,n,m,dp))
         return dp[i][j] = 1;
         
         return dp[i][j] = 0;
