@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0097-interleaving-string) |
 | [0300-longest-increasing-subsequence](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0300-longest-increasing-subsequence) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Array
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0300-longest-increasing-subsequence) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 <!---LeetCode Topics End-->
