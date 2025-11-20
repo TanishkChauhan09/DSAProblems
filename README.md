@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0097-interleaving-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1321-get-equal-substrings-within-budget) |
 ## Dynamic Programming
 |  |
@@ -71,5 +72,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1321-get-equal-substrings-within-budget) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
