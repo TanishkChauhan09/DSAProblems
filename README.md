@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0047-permutations-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0300-longest-increasing-subsequence) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0047-permutations-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Depth-First Search
 |  |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
