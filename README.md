@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Queue
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
