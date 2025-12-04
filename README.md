@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Queue
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -167,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
