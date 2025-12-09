@@ -1,27 +1,44 @@
 class Solution {
 public:
     
-    int M = 1e9+7;
+    // brute force and slow
+    
+    int mod = 1e9+7;
 
-    int specialTriplets(vector<int>& nums) {
+    int specialTriplets(vector<int>& arr) {
+        
+        int n = arr.size();
 
-        unordered_map<int, int> valid_i;
-        unordered_map<int, int> valid_j;
+        long long count=0;
 
-        int result = 0;
+        unordered_map<long long,long long>left;
+        unordered_map<long long,long long>mp_all;
 
-        for(int &num : nums) {
-            
-            if(num%2 == 0) { //if it's valid k, we got our triplet
-                result = (result + valid_j[num/2]) % M;
-            }
-
-            //If it's valid j or not
-            valid_j[num] = (valid_j[num] + valid_i[num*2]) % M;
-
-            valid_i[num]++;
+        for(int i=0;i<n;i++)
+        {
+            mp_all[arr[i]]++;
         }
 
-        return result;
+        for(int i=0;i<n-1;i++)
+        {
+           long long mul = arr[i]*2;
+           long long lrr=0;
+           mp_all[arr[i]]--;
+
+           if(left.find(mul)!=left.end())
+           {
+               lrr = left[mul];
+           }
+           long long rr=0;
+           if(mp_all.find(mul)!=mp_all.end())
+           {
+               rr = mp_all[mul];
+           }
+           left[arr[i]]++;
+           count = (count%mod+((lrr%mod)*(rr%mod))%mod)%mod;
+        }
+
+        return (int)count%mod;
+
     }
 };
