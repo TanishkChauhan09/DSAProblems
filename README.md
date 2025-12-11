@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3531-count-covered-buildings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3531-count-covered-buildings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
