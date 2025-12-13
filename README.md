@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2211-count-collisions-on-a-road) |
+| [3606-coupon-code-validator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Prefix Sum
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3531-count-covered-buildings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3606-coupon-code-validator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Queue
