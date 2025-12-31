@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
@@ -141,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sliding Window
 |  |
 | ------- |
