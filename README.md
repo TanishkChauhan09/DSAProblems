@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0300-longest-increasing-subsequence) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
