@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
