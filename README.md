@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
