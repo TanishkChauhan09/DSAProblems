@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
