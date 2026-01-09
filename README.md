@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Minimum Spanning Tree
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Binary Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
