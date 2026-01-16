@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3453-separate-squares-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3453-separate-squares-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3583-count-special-triplets) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1925-count-square-sum-triples) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Tree
 |  |
 | ------- |
