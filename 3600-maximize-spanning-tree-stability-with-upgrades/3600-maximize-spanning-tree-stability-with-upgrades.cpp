@@ -125,7 +125,8 @@ public:
                 // 1
                 // Expected
                 // -1
-                
+
+                //  AGAR edge must=1 hai pr dono ke ultimate parent same aa rha hai toh iska matlb sbki must ko lena hai aur iss se cycle bnegi hi bnegi 
                 if(findparent(u,parent)==findparent(v,parent))
                 return -1;
                 unionbyrank(u,v,parent,rank);
