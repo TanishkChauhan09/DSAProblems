@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -393,5 +396,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
