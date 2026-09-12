@@ -1,34 +1,31 @@
 class Solution {
 public:
     
-    vector<int>dfs(int node,vector<vector<int>>&adj,int parent,string &labels,vector<int>&results)
+    // labels string ko as a refernece pass krna hai MLE se bchne ke liye
+    void dfs(int node,vector<vector<int>>&adj,int parent,string &labels,vector<int>&results,vector<int>&counts)
     {
-        vector<int>nodevect(26,0);
+        
         int nodelabel_char = labels[node]-'a';
-        nodevect[nodelabel_char]=1;
+        counts[nodelabel_char]++;
 
+        int before = counts[nodelabel_char];
+        
         for(int j=0;j<adj[node].size();j++)
         {
             int neigh = adj[node][j];
 
             if(neigh==parent)
-            continue;
+               continue;
 
-            vector<int>childvect = dfs(neigh,adj,node,labels,results);
+            dfs(neigh,adj,node,labels,results,counts);
 
-            for(int i=0;i<26;i++)
-            {
-                nodevect[i]+=childvect[i];
-            }
         }
 
-        results[node] = nodevect[nodelabel_char];
-
-        return nodevect;
+        results[node] = counts[nodelabel_char]-before+1;
 
     }
 
-    vector<int> countSubTrees(int n, vector<vector<int>>& edges, string labels) {
+    vector<int> countSubTrees(int n, vector<vector<int>>& edges, string &labels) {
 
         vector<vector<int>>adj(n);
 
@@ -41,8 +38,9 @@ public:
             adj[v].push_back(u);
         }
         vector<int>results(n,0);
+        vector<int>counts(26,0);
         
-        dfs(0,adj,-1,labels,results);
+        dfs(0,adj,-1,labels,results,counts);
 
         return results;
         
