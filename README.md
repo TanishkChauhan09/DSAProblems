@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
+| [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
+| [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
+| [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Minimum Spanning Tree
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## DP on Trees
 |  |
