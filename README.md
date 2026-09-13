@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2211-count-collisions-on-a-road) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Shortest Path
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Minimum Spanning Tree
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
