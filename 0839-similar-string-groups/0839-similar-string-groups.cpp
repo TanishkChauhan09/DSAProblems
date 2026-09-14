@@ -1,20 +1,37 @@
 class Solution {
 public:
 
-    void dfs(int node,vector<vector<int>>&adj,vector<int>&visited)
+    int findparent(int u,vector<int>&parent)
     {
-        visited[node] = 1;
+        if(u==parent[u])
+        return u;
 
-        for(int j=0;j<adj[node].size();j++)
+        return parent[u] = findparent(parent[u],parent);
+    }
+
+    void unionbyrank(int u,int v,vector<int>&parent,vector<int>&rank)
+    {
+        int Pu = findparent(u,parent);
+        int Pv = findparent(v,parent);
+
+        if(Pu==Pv)
+        return;
+
+        if(rank[Pu]<rank[Pv])
         {
-            int neigh = adj[node][j];
-
-            if(!visited[neigh])
-            {
-                dfs(neigh,adj,visited);
-            }
+            parent[Pu] = Pv;
+        }
+        else if(rank[Pu]>rank[Pv])
+        {
+            parent[Pv] = Pu;
+        }
+        else
+        {
+            rank[Pu]++;
+            parent[Pv] = Pu;
         }
     }
+
     
     bool similar(string &str1,string &str2)
     {
@@ -41,7 +58,14 @@ public:
     int numSimilarGroups(vector<string>& strs) {
         
         int n = strs.size();
-        vector<vector<int>>adj(n);
+
+        vector<int>parent(n,0);
+        vector<int>rank(n,0);
+
+        for(int i=0;i<n;i++)
+        {
+            parent[i] = i;
+        }
 
         for(int i=0;i<n;i++)
         {
@@ -49,20 +73,18 @@ public:
             {
                 if(similar(strs[i],strs[j]))
                 {
-                    adj[i].push_back(j);
-                    adj[j].push_back(i);
+                    unionbyrank(i,j,parent,rank);
                 }
             }
         }
 
         int count=0;
-        vector<int>visited(n,0);
+        
 
         for(int i=0;i<n;i++)
         {
-            if(!visited[i])
+            if(parent[i]==i)
             {
-                dfs(i,adj,visited);
                 count++;
             }
         }
