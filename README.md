@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1321-get-equal-substrings-within-budget) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1871-jump-game-vii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Shortest Path
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3583-count-special-triplets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -449,4 +455,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
