@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1975-maximum-matrix-sum) |
+| [2101-detonate-the-maximum-bombs](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
+| [2101-detonate-the-maximum-bombs](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
+| [2101-detonate-the-maximum-bombs](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1925-count-square-sum-triples) |
+| [2101-detonate-the-maximum-bombs](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2101-detonate-the-maximum-bombs) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Stack
@@ -439,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2359-find-closest-node-to-given-two-nodes) |
