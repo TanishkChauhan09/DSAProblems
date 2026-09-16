@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
+| [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -508,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
