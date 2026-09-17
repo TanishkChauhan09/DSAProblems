@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1615-maximal-network-rank](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1615-maximal-network-rank) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
