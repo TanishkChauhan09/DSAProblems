@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0968-binary-tree-cameras](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0968-binary-tree-cameras) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0839-similar-string-groups) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
@@ -552,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0332-reconstruct-itinerary) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
