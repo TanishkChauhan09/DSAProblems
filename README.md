@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Union Find
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
