@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0752-open-the-lock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0839-similar-string-groups) |
 | [0944-delete-columns-to-make-sorted](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
+| [0752-open-the-lock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
+| [0752-open-the-lock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0752-open-the-lock) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0815-bus-routes) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0133-clone-graph) |
 | [0424-longest-repeating-character-replacement](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0752-open-the-lock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
@@ -600,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
