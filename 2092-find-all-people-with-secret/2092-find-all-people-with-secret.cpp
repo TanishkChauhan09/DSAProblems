@@ -3,88 +3,64 @@ public:
 
     // ALGORITHM TO SOLVE QUESTION
     
-    // 1.) sort on the basis of meeting time
-    // 2.) male a graph of all people doing meeting at the particular time aise hi ek ek krke sbhi time pe jiss people ki bhi meeting chal rhi hai unka graph bnaayenge
-    // 3.) Ab jiss people ko secret pta hai unnhe queue me daal denge and ab BFS apply kr denge
-    // 4.) Ab jo extra people secret jaanenge unhe visited set me daal denge 
-    // 5.) and ab jo visited hue hai usss set pe traverse krke unke knowsecret vector me true mark kr denge
-    // 6.) Ab jo secret jaan gya honge unko ek result vector me daal denge and iss result vector ko return kr denge
+    // using the bfs
 
     vector<int> findAllPeople(int n, vector<vector<int>>& meetings, int firstPerson) {
-        // sort meetings by time
-        sort(meetings.begin(), meetings.end(),
-             [](auto &a, auto &b) {
-                 return a[2] < b[2];
-             });
 
-        vector<bool> knows(n, false);
-        knows[0] = true;
-        knows[firstPerson] = true;
+        unordered_map<int,vector<pair<int,int>>>adj;// vector<vector<pair<int,int>>> adj(n); 
 
-        int i = 0;
-        int m = meetings.size();
-
-        while (i < m) 
+        // making the adjacency list
+        for(int i=0;i<meetings.size();i++)
         {
-            int time = meetings[i][2];
+            int person1 = meetings[i][0];
+            int person2 = meetings[i][1];
+            int timeformeeting = meetings[i][2];
 
-            // graph for same-time meetings
-            unordered_map<int, vector<int>> graph;
-            unordered_set<int> people;
+            adj[person1].push_back({person2,timeformeeting});
+            adj[person2].push_back({person1,timeformeeting});
+        }
 
-            // collect all meetings at this time
-            while (i < m && meetings[i][2] == time)
-             {
-                int u = meetings[i][0];
-                int v = meetings[i][1];
-                graph[u].push_back(v);
-                graph[v].push_back(u);
-                people.insert(u);
-                people.insert(v);
-                i++;
-            }
+        vector<int>timeToKnowSecret(n,INT_MAX);
+        timeToKnowSecret[0]=0;
+        timeToKnowSecret[firstPerson]=0;
 
-            // BFS only from people who already know the secret
-            queue<int> q;
-            unordered_set<int> visited;
+        queue<pair<int,int>>q;  // {person,meetingtime of knowing the secret}
+        q.push({0,0});
+        q.push({firstPerson,0});
 
-            for (int p : people) 
+        while(!q.empty())
+        {
+            int person1 = q.front().first;
+            int timeOfKnowingSecretByPerson1 = q.front().second;
+            q.pop();
+
+            if(timeOfKnowingSecretByPerson1>timeToKnowSecret[person1])
+              continue;
+
+            
+            for(int j=0;j<adj[person1].size();j++)
             {
-                if (knows[p])
-                {
-                    q.push(p);
-                    visited.insert(p);
-                }
-            }
+                int person2 = adj[person1][j].first;  // person1 ki kis person2 ke saath meeting hai
+                int meetingtimeWithOtherPerson = adj[person1][j].second ;  // person1 ki person 2 ke saath kitne bje meeting hai
 
-            // spread secret in this time group
-            while (!q.empty()) 
-            {
-                int curr = q.front();
-                q.pop();
-                for (int nei : graph[curr])
+        // meeting time se phle ya ussi time secret jaan paayega tbhi toh dusre person ko bta paayega
+                if(timeOfKnowingSecretByPerson1 <= meetingtimeWithOtherPerson  && timeToKnowSecret[person2]>meetingtimeWithOtherPerson) // agr person2 already secret jaanta hai kya kahin aue kmm time me jaan paayega
                 {
-                    if (!visited.count(nei))
-                    {
-                        visited.insert(nei);
-                        q.push(nei);
-                    }
+                     timeToKnowSecret[person2] = meetingtimeWithOtherPerson;
+                     q.push({person2,meetingtimeWithOtherPerson});
                 }
-            }
-
-            // update knowledge AFTER finishing this time
-            for (int p : visited)
-             {
-                knows[p] = true;
             }
         }
+
 
         // collect result
         vector<int> ans;
         for (int i = 0; i < n; i++) 
         {
-            if (knows[i])
+            if(timeToKnowSecret[i]!=INT_MAX)
+            {
                 ans.push_back(i);
+            }
         }
 
         return ans;
