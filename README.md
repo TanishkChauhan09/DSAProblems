@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2050-parallel-courses-iii) |
+| [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
