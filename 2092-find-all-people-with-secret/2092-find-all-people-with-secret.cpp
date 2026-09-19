@@ -1,5 +1,15 @@
 class Solution {
 public:
+
+    // ALGORITHM TO SOLVE QUESTION
+    
+    // 1.) sort on the basis of meeting time
+    // 2.) male a graph of all people doing meeting at the particular time aise hi ek ek krke sbhi time pe jiss people ki bhi meeting chal rhi hai unka graph bnaayenge
+    // 3.) Ab jiss people ko secret pta hai unnhe queue me daal denge and ab BFS apply kr denge
+    // 4.) Ab jo extra people secret jaanenge unhe visited set me daal denge 
+    // 5.) and ab jo visited hue hai usss set pe traverse krke unke knowsecret vector me true mark kr denge
+    // 6.) Ab jo secret jaan gya honge unko ek result vector me daal denge and iss result vector ko return kr denge
+
     vector<int> findAllPeople(int n, vector<vector<int>>& meetings, int firstPerson) {
         // sort meetings by time
         sort(meetings.begin(), meetings.end(),
