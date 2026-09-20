@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2045-second-minimum-time-to-reach-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2699-modify-graph-edge-weights](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2699-modify-graph-edge-weights) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2285-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2699-modify-graph-edge-weights](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2699-modify-graph-edge-weights) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3123-find-edges-in-shortest-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2699-modify-graph-edge-weights](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2699-modify-graph-edge-weights) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
