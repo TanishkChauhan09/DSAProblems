@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-   // 2D matrix pe dijkstra algorithm apply kiya hai
+   // 2D matrix pe dijkstra algorithm apply kiya hai( Explored lgaake thoda optimiza krne ki kosis ki hai)
 
     int minimumObstacles(vector<vector<int>>& grid) {
 
@@ -17,6 +17,10 @@ public:
 
         pq.push({0,{0,0}});  // {wt,{row,col}}
 
+        
+        // for little optimization in DFS solution
+        vector<vector<int>>explored(n,vector<int>(m,0));
+
         while(!pq.empty())
         {
             int dist = pq.top().first;
@@ -24,12 +28,17 @@ public:
             int col = pq.top().second.second;
             pq.pop();
 
+            if(explored[row][col])
+            continue;
+
+            explored[row][col] = 1;
+
             for(int k=0;k<4;k++)
             {
                 int n_row = row + drow[k];
                 int n_col = col + dcol[k];
 
-                if(n_row<0 || n_row>=n || n_col<0 || n_col>=m)
+                if(n_row<0 || n_row>=n || n_col<0 || n_col>=m || explored[n_row][n_col])    // also here for optimization
                 continue;
 
                 int wt = (grid[n_row][n_col]==1)? 1: 0;
@@ -37,7 +46,7 @@ public:
                 if(result[n_row][n_col] > (wt + result[row][col]))
                 {
                     result[n_row][n_col] = (wt + result[row][col]);   // wt + dist bji likh skte the wo bhi shi hota
-                    pq.push({wt,{n_row,n_col}});
+                    pq.push({wt + result[row][col] , {n_row,n_col} } );  // pq.push({reuslt[n_row][n_col] , {n_row,n_col}})
                 }
             }
         }
