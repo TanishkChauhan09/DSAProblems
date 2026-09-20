@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2045-second-minimum-time-to-reach-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2699-modify-graph-edge-weights](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2699-modify-graph-edge-weights) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2959-number-of-possible-sets-of-closing-branches) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2402-meeting-rooms-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2402-meeting-rooms-iii) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2699-modify-graph-edge-weights](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2699-modify-graph-edge-weights) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2959-number-of-possible-sets-of-closing-branches) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1975-maximum-matrix-sum) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2392-build-a-matrix-with-conditions) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sliding Window
 |  |
@@ -536,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2392-build-a-matrix-with-conditions) |
 | [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2699-modify-graph-edge-weights](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2699-modify-graph-edge-weights) |
 | [2924-find-champion-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2924-find-champion-ii) |
