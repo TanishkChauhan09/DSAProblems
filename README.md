@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1361-validate-binary-tree-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1361-validate-binary-tree-nodes) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0332-reconstruct-itinerary) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2285-maximum-total-importance-of-roads) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -524,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1361-validate-binary-tree-nodes) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -626,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -668,5 +675,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## 0-1 BFS
 |  |
 | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
