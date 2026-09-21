@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3123-find-edges-in-shortest-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3123-find-edges-in-shortest-paths) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2392-build-a-matrix-with-conditions) |
 | [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2699-modify-graph-edge-weights](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2699-modify-graph-edge-weights) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2421-number-of-good-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
