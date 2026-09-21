@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0684-redundant-connection) |
 | [0752-open-the-lock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0752-open-the-lock) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0802-find-eventual-safe-states) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0684-redundant-connection) |
 | [0839-similar-string-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1361-validate-binary-tree-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1361-validate-binary-tree-nodes) |
