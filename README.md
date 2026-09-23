@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3606-coupon-code-validator) |
+| [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Matrix
 |  |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3606-coupon-code-validator) |
+| [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Queue
@@ -569,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 ## Graph Theory
 |  |
 | ------- |
@@ -628,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
 |  |
@@ -662,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 ## DP on Trees
 |  |
 | ------- |
