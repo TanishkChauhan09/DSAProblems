@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [0752-open-the-lock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0300-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1321-get-equal-substrings-within-budget) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0684-redundant-connection) |
 | [0752-open-the-lock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0815-bus-routes) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0332-reconstruct-itinerary) |
+| [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
@@ -346,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0085-maximal-rectangle) |
+| [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -636,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1361-validate-binary-tree-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1361-validate-binary-tree-nodes) |
@@ -690,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
@@ -738,4 +746,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
