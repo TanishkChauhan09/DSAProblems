@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3379-transformed-array](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3453-separate-squares-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3453-separate-squares-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3123-find-edges-in-shortest-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sorting
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3123-find-edges-in-shortest-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Matrix
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sliding Window
 |  |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3123-find-edges-in-shortest-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
