@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3123-find-edges-in-shortest-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3123-find-edges-in-shortest-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Union Find
 |  |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Minimum Spanning Tree
 |  |
