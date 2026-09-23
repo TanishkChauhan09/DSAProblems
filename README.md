@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1200-minimum-absolute-difference](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1361-validate-binary-tree-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1361-validate-binary-tree-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1361-validate-binary-tree-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
