@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Queue
 |  |
 | ------- |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3870-count-commas-in-range](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3870-count-commas-in-range) |
 ## Combinatorics
 |  |
@@ -775,4 +779,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
