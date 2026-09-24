@@ -1,84 +1,130 @@
 class Solution {
-public:
-    long long minimumCost(string source,string target, vector<string>& original,vector<string>& changed, vector<int>& cost )
+public:  
+
+   // Recursion(D.P) + graph question
+
+   typedef long long LL;
+    
+    unordered_map<string, vector<pair<string,LL>>>adj;
+    set<LL>length;
+
+    vector<LL>dpMemo;    // Recursion ko toh memoization krna hi hai kyuki recusrion me overlapping case arise ho skte hai
+    unordered_map<string, unordered_map<string, LL>> dijkstraMemo;   // dijkstra algoritm ko bhi memoize kr diya hai 
+
+    LL dijkstra(string src, string dest)
     {
-        int n = source.length();
-        unordered_map<string, int> strToId;
-        int idCounter = 0;
+        if(dijkstraMemo[src].count(dest))
+        return dijkstraMemo[src][dest];
 
-        // Map strings to unique IDs
-        for (const string& s : original)
-            if (!strToId.count(s)) 
-               strToId[s] = idCounter++;
-        
-        for (const string& s : changed)
-            if (!strToId.count(s)) 
-                strToId[s] = idCounter++;
+        priority_queue<pair<LL,string>,vector<pair<LL,string>>,greater<pair<LL,string>>> pq;
+        pq.push({0,src});
 
-        long long INF = 1e15;
-        vector<vector<long long>> dist(idCounter,vector<long long>(idCounter, INF));
+        unordered_map<string ,LL> dist;
+        dist[src] = 0;
 
-        for (int i = 0; i < idCounter; ++i)
-            dist[i][i] = 0;
-
-        // Direct transformations
-        for (int i = 0; i < original.size(); ++i) 
+        while(!pq.empty())
         {
-            int u = strToId[original[i]];
+            LL distance = pq.top().first;
+            string str = pq.top().second;
+            pq.pop();
 
-            int v = strToId[changed[i]];
+            if(str == dest)
+             return dijkstraMemo[src][dest] = distance;
 
-            dist[u][v] = min(dist[u][v], (long long)cost[i]);
-        }
+            if(distance > dist[str])
+            continue; 
 
-        // Floyd–Warshall
-        for (int k = 0; k < idCounter; ++k)
-            for (int i = 0; i < idCounter; ++i)
-                for (int j = 0; j < idCounter; ++j)
-                    if (dist[i][k] < INF && dist[k][j] < INF)
-                        dist[i][j] = min(dist[i][j],dist[i][k] + dist[k][j]);
-
-        vector<long long> dp(n + 1, INF);
-        dp[0] = 0;
-
-        vector<int> lengths;
-        for (const string& s : original)
-            lengths.push_back(s.length());
-
-        sort(lengths.begin(), lengths.end());
-
-        lengths.erase(unique(lengths.begin(), lengths.end()), lengths.end());
-
-        for (int i = 0; i < n; ++i) 
-        {
-            if (dp[i] == INF) continue;
-
-            // Match single character
-            if (source[i] == target[i])
-                dp[i + 1] = min(dp[i + 1], dp[i]);
-
-            // Try substring transformations
-            for (int len : lengths) 
+            for(auto &edge : adj[str])
             {
-                if (i + len > n) break;
-
-                string subS = source.substr(i, len);
-                string subT = target.substr(i, len);
-
-                if (subS == subT)
-                    dp[i + len] = min(dp[i + len], dp[i]);
-
-                if (strToId.count(subS) && strToId.count(subT)) 
+                string neigh = edge.first;
+                LL wt = edge.second;
+                 
+                // map me agr jisko me distance dene waala hoon who hoga hi nhi toh uss case me dist[neigh] mujhe 0 dete hai toh usi ka use krlenge ke agr wo hua nhi toh usse bhi distance dedo ushi mini hone waali hai aur agr hua toh uske liye toh check kr hi rhe hai 
+                if(!dist.count(neigh) || ( distance + wt < dist[neigh]) )
                 {
-                    int u = strToId[subS];
-                    int v = strToId[subT];
-                    
-                    if (dist[u][v] < INF)
-                        dp[i + len] = min( dp[i + len],dp[i] + dist[u][v] );
+                    dist[neigh] = distance + wt;
+                    pq.push({dist[neigh] , neigh});
                 }
             }
+        }  
+         
+        return dijkstraMemo[src][dest] = LLONG_MAX; 
+    }
+    
+    LL find(int idx,int srcSize,string source,string target)
+    {
+        if(idx >= srcSize)
+        {
+            return 0;
         }
 
-        return dp[n] >= INF ? -1 : dp[n];
+        if(dpMemo[idx] != -1)
+         return dpMemo[idx];
+        
+        LL cost = LLONG_MAX;
+
+        if(source[idx] == target[idx])
+          cost = find(idx+1, srcSize, source, target);
+
+        for(auto len : length)
+        {
+            if(idx+len > srcSize)
+              break;
+
+            string SRCsubstr = source.substr(idx, len);    // substr(index, length) ,length exclusive hoti hai
+            string TARGETsubstr = target.substr(idx, len);
+
+            // check krlo ke kya SRCsubstr se koi edge jaai bhi rhi hai ya nhi means conversion possible bhi hai ya nhi , aur ye hmm check krlenge adjacency list me hi ke kya koi is naam ka node hai bhi ya nhi  ayr nhi hai toh aage ki lengths pr substrng check kro means continue kr jaayenge
+            if(!adj.count(SRCsubstr))
+            {
+                continue;
+            }
+
+            LL minLength =  LLONG_MAX;
+            minLength = dijkstra(SRCsubstr, TARGETsubstr);
+
+            // agr SRCsubstr ko TARGETsubstr me convert hi nhi kr paaya toh uss case me bhi aage ki lengths ke liye dekhenge
+            if(minLength == LLONG_MAX)
+            continue;
+
+            LL furtherSol =  find(idx+len,srcSize,source,target);  // agr src se dest ke liye distance mil jaati hia toh aage waale ko convert krke dekhenge and ye bhi check kr lenge kya aage wala convert hya bhi hai ya nhi
+
+            if(furtherSol == LLONG_MAX)
+            continue;
+
+            cost = min( cost , minLength + furtherSol);
+        }  
+
+       return dpMemo[idx] = cost;
+
+    }
+
+    long long minimumCost(string source,string target, vector<string>& original,vector<string>& changed, vector<int>& cost )
+    {
+        int n = original.size();
+        int m = source.size();
+        // unordered_map<string, vector<string>>adj;   // global define krlenge
+
+        dpMemo.resize(m,-1);
+
+        for(int i=0;i<n;i++)
+        {
+            string u = original[i];
+            string v = changed[i];
+            int wt = cost[i];
+
+            adj[u].push_back({v,wt});  // conversion directed hoti hai isiliye directed graph bnaaya hai
+        }
+
+        // set<int>length;    // global define kr lenge
+        for(int i=0; i<n; i++)
+        {
+            string temp = original[i];
+            length.insert(temp.size());  // jiss length ki string convert kr skte hai sirf whi length leli hai
+        }
+
+        LL result = find(0,source.size(),source,target);
+
+        return result == LLONG_MAX? -1: result;
     }
 };
