@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3454-separate-squares-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3453-separate-squares-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3454-separate-squares-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3620-network-recovery-pathways) |
 ## Graph
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 | [3620-network-recovery-pathways](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3620-network-recovery-pathways) |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3607-power-grid-maintenance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3607-power-grid-maintenance) |
 ## DP on Trees
