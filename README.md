@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1361-validate-binary-tree-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2092-find-all-people-with-secret) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
