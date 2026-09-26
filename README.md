@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0115-distinct-subsequences) |
 | [0332-reconstruct-itinerary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0332-reconstruct-itinerary) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0115-distinct-subsequences) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0047-permutations-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
@@ -807,4 +810,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
