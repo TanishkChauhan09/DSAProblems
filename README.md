@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0239-sliding-window-maximum) |
@@ -454,11 +455,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0078-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
