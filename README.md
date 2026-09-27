@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0115-distinct-subsequences) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0097-interleaving-string) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
