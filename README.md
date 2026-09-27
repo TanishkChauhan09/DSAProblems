@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0133-clone-graph) |
+| [0279-perfect-squares](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0684-redundant-connection) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
@@ -831,4 +834,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0022-generate-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
