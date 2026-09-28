@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0931-minimum-falling-path-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0968-binary-tree-cameras) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0931-minimum-falling-path-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0085-maximal-rectangle) |
 | [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
+| [0931-minimum-falling-path-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0931-minimum-falling-path-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
