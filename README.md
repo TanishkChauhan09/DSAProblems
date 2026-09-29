@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0790-domino-and-tromino-tiling](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0790-domino-and-tromino-tiling) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0931-minimum-falling-path-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0931-minimum-falling-path-sum) |
