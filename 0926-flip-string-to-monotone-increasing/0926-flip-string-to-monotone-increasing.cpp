@@ -1,57 +1,32 @@
 class Solution {
 public:
  
-    // Memoization
-    vector<vector<int>>dp;
+    // bottom up
     
-    int find(int index, string &str, int &n, char prevStr)
-    {
-        if( index >= n)
-          return 0;
+    // jb 1 aaye tb bss countones ko increase kro ye mt dekhi ke flip krron ya na kroon
 
-        // optimization
-        if(dp[index][prevStr - '0'] != -1)
-        {
-            return dp[index][prevStr-'0'];
-        }  
-
-        int flip = INT_MAX;
-        int notflip = INT_MAX;  
-
-        if(str[index] == '0')
-        {
-            if(prevStr == '0')
-            {
-                flip = 1 + find(index+1, str, n, '1'); // 0 ko flip krdiya toh ab aage wale ke liye previous 1 hoga
-                notflip = find(index+1, str, n, '0');
-            }
-            else
-            {
-                flip = 1 + find(index+1, str, n, '1'); 
-            }
-        }  
-        else if(str[index] == '1')
-        {
-            if(prevStr == '0')
-            {
-                flip = 1 + find(index+1, str, n, '0'); // 0 ko flip krdiya toh ab aage wale ke liye previous 1 hoga
-                notflip = find(index+1, str, n, '1');
-            }
-            else
-            {
-                notflip = 0 + find(index+1, str, n, '1'); 
-            }
-        }
-
-        return dp[index][prevStr - '0'] = min(flip, notflip);
-    }
+    // jb bhi 0 aaye tb dekho agr 0 hi rhne deta hoon toh aage ke countones sbhi ko 0 krna pdega aur agr 0 ko flip krdeta hoon toh flip+1 aur lgg jaayega
 
     int minFlipsMonoIncr(string s) {
         
         int n = s.size();
+         
+        int countones = 0;
+        int flips = 0;
 
-        dp = vector<vector<int>>(n+1, vector<int>(2,-1));   // char type ka bhi bnaaya tha pr wo overflow de rha hai toh kyu na map bna le
+        int ans = 0;
 
-        return find(0, s, n, '0');
+        for(int i=0;i<n;i++)
+        {
+            if(s[i] == '1')
+              countones++;
+            else if(s[i] == '0')
+            {
+                
+                flips = min( countones, flips + 1);
+            }  
+        } 
+        
+        return flips;
     }
 };
