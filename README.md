@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0022-generate-parentheses) |
+| [0087-scramble-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0115-distinct-subsequences) |
 | [0332-reconstruct-itinerary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0332-reconstruct-itinerary) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0264-ugly-number-ii) |
