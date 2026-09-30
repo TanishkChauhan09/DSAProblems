@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2322-minimum-score-after-removals-on-a-tree) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1871-jump-game-vii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
