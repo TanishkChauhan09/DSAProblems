@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0790-domino-and-tromino-tiling) |
 | [0834-sum-of-distances-in-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0879-profitable-schemes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0879-profitable-schemes) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0968-binary-tree-cameras) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0879-profitable-schemes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -876,8 +878,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0279-perfect-squares) |
+| [0879-profitable-schemes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0879-profitable-schemes) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0279-perfect-squares) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0879-profitable-schemes) |
 <!---LeetCode Topics End-->
