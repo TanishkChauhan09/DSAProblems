@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1871-jump-game-vii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
