@@ -1,40 +1,8 @@
 class Solution {
 public:
     
-    // Top-down/ Memoization
-    vector<vector<vector<int>>> dp;
-
-    long long findForAlice(int index, int M, vector<int>&piles, int &n, int person)
-    {
-        // Base condition
-        if(index >=n)
-          return 0;
-
-        // optimization
-        if( dp[index][M][person] != -1)
-          return dp[index][M][person];
-
-
-        long long result = person == 1 ? -1 : INT_MAX;  // Alice ki chance hogi toh usse maximum chahiye isliye result me -1 hona chahiye and jb bob ki chance ho toh wo mini dega uske liye result me INT_MAX hoga toh isiliye
-
-        long long sum = 0; 
-        for(int x = 1; x <= min(2*M, n-index); x++) // out of array na chla jaaye uske liye
-        {
-            sum += piles[x+ index-1];
-
-            if(person) // Alice chance : do your best
-            {
-                long long getBest = findForAlice(index+x, max(M, x), piles, n, !person);
-
-                result = max(result, sum + getBest);
-            }
-            else   // Bob chance : ye func alice ke liye hai toh alice bob se worst expect krega
-            {
-                 result = min( result, 0 + findForAlice(index+x, max(M,x), piles, n, !person) );
-            }
-        } 
-        return dp[index][M][person] =  result;
-    }
+    // Bottom-up / Tabulation
+    vector<vector<vector<long long>>> dp;
 
     int stoneGameII(vector<int>& piles) {
 
@@ -44,9 +12,43 @@ public:
 
         int person = 1; // Alice start krega game ko
 
-        dp.resize(n+1, vector<vector<int>>(n+1, vector<int>(2,-1)));
+        dp.resize(n+1, vector<vector<long long>>(n+1, vector<long long>(2,0)));
 
-        return findForAlice(0, M, piles, n, person);
+        // tabulation
+
+        for(int index = n-1; index>=0 ;index--)
+        {
+            for(int M = n; M >= 1; M--)
+            {
+                for(int person=1; person>=0; person--)
+                {
+                    long long result = person == 1 ? -1 : LLONG_MAX;  
+
+                    long long sum = 0; 
+                    for(int x = 1; x <= min(2*M, n-index); x++) 
+                    {
+                        sum += piles[x+ index-1];
+
+                        if(person) 
+                        {
+                            long long getBest = dp[index+x][max(M,x)][!person];
+
+                            result = max(result, sum + getBest);
+                        }
+                        else  
+                        {
+                            result = min( result, 0 + dp[index+x][max(M,x)][!person] ); 
+                        }
+                    } 
+                     
+                    dp[index][M][person] =  result;
+                }
+            }
+        }
+
+        // return findForAlice(0, M, piles, n, person);
+
+        return dp[0][1][1]; // initially M=1 tha
         
     }
 };
