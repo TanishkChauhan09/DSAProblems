@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0983-minimum-cost-for-tickets) |
+| [1035-uncrossed-lines](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1035-uncrossed-lines) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0983-minimum-cost-for-tickets) |
+| [1035-uncrossed-lines](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1035-uncrossed-lines) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1200-minimum-absolute-difference](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -901,4 +903,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1035-uncrossed-lines](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1035-uncrossed-lines) |
 <!---LeetCode Topics End-->
