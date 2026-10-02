@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1799-maximize-score-after-n-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1799-maximize-score-after-n-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1871-jump-game-vii) |
 | [2050-parallel-courses-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2050-parallel-courses-iii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1753-path-with-minimum-effort](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1753-path-with-minimum-effort) |
+| [1799-maximize-score-after-n-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1799-maximize-score-after-n-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0078-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1799-maximize-score-after-n-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2322-minimum-score-after-removals-on-a-tree) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
+| [1799-maximize-score-after-n-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1925-count-square-sum-triples) |
 | [2101-detonate-the-maximum-bombs](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2101-detonate-the-maximum-bombs) |
@@ -852,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1799-maximize-score-after-n-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1799-maximize-score-after-n-operations) |
 ## Design
 |  |
 | ------- |
@@ -876,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1799-maximize-score-after-n-operations) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/TanishkChauhan09/DSAProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bipartite Graph
 |  |
