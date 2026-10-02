@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-reducing-dishes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1416-restore-the-array](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1416-restore-the-array) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0840-magic-squares-in-grid) |
 | [1140-stone-game-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1406-stone-game-iii) |
 | [1799-maximize-score-after-n-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1925-count-square-sum-triples) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1406-stone-game-iii) |
 ## Counting
 |  |
 | ------- |
@@ -885,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1406-stone-game-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -927,4 +932,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
