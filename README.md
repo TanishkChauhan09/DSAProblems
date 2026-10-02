@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2050-parallel-courses-iii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2140-solving-questions-with-brainpower](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2140-solving-questions-with-brainpower) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2140-solving-questions-with-brainpower](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2140-solving-questions-with-brainpower) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/2246-longest-path-with-different-adjacent-characters) |
