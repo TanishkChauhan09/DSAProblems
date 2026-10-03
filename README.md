@@ -937,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0300-longest-increasing-subsequence) |
 | [1187-make-array-strictly-increasing](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1187-make-array-strictly-increasing) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Longest Common Subsequence
