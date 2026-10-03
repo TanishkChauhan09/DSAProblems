@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1035-uncrossed-lines) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1140-stone-game-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1140-stone-game-ii) |
+| [1187-make-array-strictly-increasing](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1035-uncrossed-lines) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1140-stone-game-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1140-stone-game-ii) |
+| [1187-make-array-strictly-increasing](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1187-make-array-strictly-increasing](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1321-get-equal-substrings-within-budget) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0047-permutations-ii) |
 | [0332-reconstruct-itinerary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/0332-reconstruct-itinerary) |
+| [1187-make-array-strictly-increasing](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1402-reducing-dishes) |
@@ -926,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [1187-make-array-strictly-increasing](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1187-make-array-strictly-increasing) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Longest Common Subsequence
 |  |
