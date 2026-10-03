@@ -1,43 +1,42 @@
 class Solution {
 public:
     
-    // Top- down / Memoization
+    // bottom-up / tabulation
+
     //  hrr ek complete transacton pr kuch fees/charge/ apni side se dene pdenge toh jb sell kiya tb iss txnfees ko subtract krdenge
 
     vector<vector<int>>dp;
-    
-    int find(int index, vector<int>&prices, int canbuy, int &n, int txnfee)
-    {
-        if(index >= n)
-         return 0;
-
-        // optimization by top-down
-        if(dp[index][canbuy] != -1 )
-           return dp[index][canbuy];
-
-        if(canbuy)
-        {
-            int buy = -prices[index] + find(index+1, prices, !canbuy, n, txnfee);
-            int notBuy = 0 + find(index+1, prices, canbuy, n, txnfee);
-
-            return dp[index][canbuy]  =  max( buy, notBuy);
-        } 
-        else
-        {
-            int sell = prices[index]- txnfee + find(index+1, prices, !canbuy, n, txnfee);
-            int notSell = 0 + find(index+1, prices, canbuy, n, txnfee);
-
-            return dp[index][canbuy]  =  max(sell, notSell); 
-        }
-
-    }
 
     int maxProfit(vector<int>& prices, int fee) {
         
         int n = prices.size();
 
-        dp.resize(n+1, vector<int>(2, -1)); // memoization
+        dp.resize(n+1, vector<int>(2, 0)); // initialization
 
-        return find(0, prices, 1, n, fee);
+        // tabulation
+        for(int index=n-1; index>=0; index--)
+        {
+            for(int canbuy=1; canbuy>=0; canbuy--)
+            {
+                if(canbuy)
+                {
+                    int buy = -prices[index] + dp[index+1][!canbuy];
+                    int notBuy = 0 + dp[index+1][canbuy];
+
+                    dp[index][canbuy]  =  max( buy, notBuy);
+                } 
+                else
+                {
+                    int sell = prices[index]- fee + dp[index+1][!canbuy]; // fee ko sell krne ke baad subtract krna hai
+                    int notSell = 0 + dp[index+1][canbuy];
+
+                    dp[index][canbuy]  =  max(sell, notSell); 
+                }
+
+            }
+        }
+
+        // return find(0, prices, 1, n, fee);
+        return dp[0][1];
     }
 };
