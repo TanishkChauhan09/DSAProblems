@@ -14,39 +14,41 @@ public:
     // memoization
     vector<vector<int>> dp;
 
-    int find(int curr_idx, int dest, int fuel, vector<int>&locations)
-    {
-        // base condition : agr fuel khatm hogya toh kahin nhi jaa skta
-        if(fuel < 0)
-         return 0;
-
-        if( dp[curr_idx][fuel] != -1)
-          return dp[curr_idx][fuel]; 
-
-        int ans = 0;
-
-        if(curr_idx == dest)
-          ans = 1;
-
-        for(int i=0; i< n; i++)
-        {
-            if(i == curr_idx)
-              continue;
-
-            int remaining_fuel = fuel - abs(locations[i]- locations[curr_idx]);
-            ans = ( ans %mod + find(i, dest, remaining_fuel, locations) %mod )%mod;  
-        }   
-
-        return  dp[curr_idx][fuel]  = ans % mod;
-    }
-
-    int countRoutes(vector<int>& locations, int start, int finish, int fuel) {
+    int countRoutes(vector<int>& locations, int start, int finish, int fuelgiven) {
 
         n = locations.size();
 
-        dp.resize(n+1, vector<int>(fuel+1, -1));
+        dp.resize(n+1, vector<int>(fuelgiven+1, 0));
 
-        return find(start, finish, fuel, locations) % mod;
+        // tabulation
+        for(int fuel = 0; fuel <= fuelgiven; fuel++)
+        {
+            for(int curr_idx=n-1; curr_idx>=0; curr_idx--) // fuel loop ki direction front se chalegi kyuki phle uss se phle waale needed  hai
+            {
+                int ans = 0;
+
+                if(curr_idx == finish)
+                ans = 1;
+
+                for(int i=0; i< n; i++)
+                {
+                    if(i == curr_idx)
+                    continue;
+
+                    int remaining_fuel = fuel - abs(locations[i]- locations[curr_idx]);
+
+                    if(remaining_fuel >= 0)
+                    {
+                        ans = (ans + dp[i][remaining_fuel]) % mod;
+                    } 
+                }   
+
+                 dp[curr_idx][fuel]  = ans % mod;
+            }
+        }
+
+        // return find(start, finish, fuel, locations) % mod;
+        return dp[start][fuelgiven];
         
     }
 };
