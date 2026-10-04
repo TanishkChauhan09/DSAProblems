@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1575-count-all-possible-routes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1575-count-all-possible-routes) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1799-maximize-score-after-n-operations](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1799-maximize-score-after-n-operations) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1575-count-all-possible-routes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1575-count-all-possible-routes) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1575-count-all-possible-routes](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1575-count-all-possible-routes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/TanishkChauhan09/DSAProblems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Two Pointers
 |  |
